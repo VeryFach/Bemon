@@ -1,0 +1,4 @@
+500,0,0
+Bulbasaur,1,0,EARTH,/asset/bulbasaur.gif,/asset/bulbasaur behind.gif
+Charmander,1,0,FIRE,/asset/charmander.gif,/asset/charmander behind.gif
+Nidorina,1,0,ICE,/asset/nidorina.gif,/asset/nidorina behind.gif
